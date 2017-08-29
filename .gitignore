@@ -1,3 +1,4 @@
 junk.txt
 *.log
 log/
+.DS_Store
